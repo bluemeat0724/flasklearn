@@ -13,3 +13,7 @@ git push origin master
 git status
 git diff
 
+git log
+git log -pretty=oneline
+
+git reset --hard HEAD^
